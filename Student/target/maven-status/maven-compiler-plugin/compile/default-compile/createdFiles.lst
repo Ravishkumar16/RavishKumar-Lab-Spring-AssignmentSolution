@@ -1,0 +1,14 @@
+com\greatLearning\repository\StudentRepository.class
+com\greatLearning\entity\UserRole.class
+com\greatLearning\config\SecurityConfiguration.class
+com\greatLearning\entity\AppUser.class
+com\greatLearning\StudentApplication.class
+com\greatLearning\config\UserDetailsConfig.class
+com\greatLearning\entity\UserRole$UserRoleBuilder.class
+com\greatLearning\repository\UserRepository.class
+com\greatLearning\service\StudentService.class
+com\greatLearning\service\impl\StudentServiceImpl.class
+com\greatLearning\service\impl\UserDetailsServiceImpl.class
+com\greatLearning\controller\StudentController.class
+com\greatLearning\entity\Student.class
+com\greatLearning\entity\AppUser$AppUserBuilder.class
